@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeToGif2", "ExchangeToGif2\ExchangeToGif2.csproj", "{A175FC1F-D735-4EEC-B6A0-E584B818D9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A175FC1F-D735-4EEC-B6A0-E584B818D9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A175FC1F-D735-4EEC-B6A0-E584B818D9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A175FC1F-D735-4EEC-B6A0-E584B818D9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A175FC1F-D735-4EEC-B6A0-E584B818D9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237382FA-C871-4242-9E76-6D004F2863B4}
+	EndGlobalSection
+EndGlobal
